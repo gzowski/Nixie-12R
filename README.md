@@ -5,6 +5,8 @@
 * OLED Display for displaying layer selected
 * Pro Micro compatible
 
+![PCB](https://github.com/gzowski/Nixie-12R/blob/main/Images/PCB.png?raw=true)
+
 ### [Parts](#Parts) || [Assembly Guide](#Assembly-Guide)
 
 ## Parts
