@@ -6,7 +6,7 @@
 * Pro Micro compatible
 
 ![PCB](https://github.com/gzowski/Nixie-12R/blob/main/Images/PCB.png?raw=true)
-
+![Photos](https://github.com/gzowski/Nixie-12R/blob/main/Images/nixie12r.png?raw=true)
 ## Repository Info
 
 * PCB Files within PCB folder, created with KiCad.
