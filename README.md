@@ -4,17 +4,18 @@
 * 1 Rotary encoder in the top right
 * OLED Display for displaying layer selected
 * Pro Micro compatible
+  
+### [Info](#Info) || [Parts](#Parts) || [Assembly Guide](#Assembly-Guide)
 
 ![PCB](https://github.com/gzowski/Nixie-12R/blob/main/Images/PCB.png?raw=true)
 ![Photos](https://github.com/gzowski/Nixie-12R/blob/main/Images/nixie12r.png?raw=true)
-## Repository Info
+
+## Info
 
 * PCB Files within PCB folder, created with KiCad.
 * VIA config export and via.json design files in VIA folder
 * QMK firmware within QMK/QMK_Firmware/Keyboards/Nixie12r, can be pasted into a local copy of qmk repo and made.
 * 3D printable case within Case folder
-
-### [Parts](#Parts) || [Assembly Guide](#Assembly-Guide)
 
 ## Parts
 
