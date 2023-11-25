@@ -9,6 +9,7 @@
 
 ## Repository Info
 
+* PCB Files within PCB folder, created with KiCad.
 * VIA config export and via.json design files in VIA folder
 * QMK firmware within QMK/QMK_Firmware/Keyboards/Nixie12r, can be pasted into a local copy of qmk repo and made.
 * 3D printable case within Case folder
