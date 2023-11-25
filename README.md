@@ -26,7 +26,7 @@
 | EC11 | 1 | Rotary Encoder |
 | MJTP1117 | 1 | Angled reset switch |
 | Keycaps | 1 | 11x1u switches |
-| OLED Display | 1 | 32x128 OLED |
+| OLED Display | 1 | 128x32 OLED (SSD1306) |
 
 ## Assembly Guide
 
