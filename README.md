@@ -34,6 +34,7 @@
 * Diode installation: insert from top of the pcb so diodes are visible from the top
 * Reset switch: insert switch on top and solder from underside, remove legs beforehand for clearance.
 * Microcontroller needs to be positioned with the top facing the PCB, upsidedown (Test controller beforehand and flash firmware using QMK)
+* Place OLED Display on top of PCB and solder from underside.
 * Place the rotary encoder on the top side and solder all points ensuring it stays flush to the board.
 * Press down the top plate with switches and stabalisers down on the middle plate ensuring that all the switches sit flush against the middle plate.
 * Turn board over and proceed to solder switches to the board
