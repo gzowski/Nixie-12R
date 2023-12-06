@@ -1,5 +1,7 @@
 # Nixie-12R - Keyboard/GamePad
 
+* Available to purchase from: https://www.etsy.com/uk/shop/PhoenixCustomBoards
+
 * 11 key ortholinear keyboard
 * 1 Rotary encoder in the top right
 * OLED Display for displaying layer selected
